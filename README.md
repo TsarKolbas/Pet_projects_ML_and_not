@@ -1,2 +1,2 @@
-# Pet_projects_ML_and_not
-Pet_projects for ML
+Здесь будет представлено решение проблемы для анализа спектров. 
+##
