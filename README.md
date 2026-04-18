@@ -13,4 +13,5 @@
 
 <img width="1000" height="450" alt="no_back" src="https://github.com/user-attachments/assets/0a5f9869-5c27-400e-86e2-b15d5e5a65a3" />
 <img width="1000" height="450" alt="flatted" src="https://github.com/user-attachments/assets/ea8b26a3-3812-4e53-b765-86f82b55443b" />
-
+3. выведим амплитуды которые были найдены в ходе анализа, а так же результаты апроксимации.
+<img width="1489" height="390" alt="image" src="https://github.com/user-attachments/assets/d1d53ca1-6dbb-4590-bdd6-589fff7abfba" />
